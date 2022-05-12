@@ -5,7 +5,7 @@
 **Date**: 5/12/2022
 **Application** Version: 1.0.0
 
-**Overview**: a website application that allows users to view their own snacks.
+**Web App Overview**: a website application that allows users to view their own snacks.
 
 ### How to use this website application:
 1. Clone the repository
